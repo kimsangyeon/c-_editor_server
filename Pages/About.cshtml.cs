@@ -12,7 +12,7 @@ namespace c_editor_server.Pages
 
         public void OnGet()
         {
-            Message = "Your application description page.";
+            Message = "SynapEditor Edit Page";
         }
     }
 }

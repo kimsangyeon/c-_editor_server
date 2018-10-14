@@ -1,0 +1,13 @@
+synapeditor.css
+synapeditor.js
+
+*.dll
+*.cache
+*.pdb
+*.CopyComplete
+
+c_editor_server.runtimeconfig.dev.json
+c_editor_server.runtimeconfig.json
+c_editor_server.deps.json
+
+*.g.*
